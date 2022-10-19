@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>flt-glass-pane</name>
+   <tag></tag>
+   <elementGuidId>13450953-6ccb-4ca6-b0b6-1c10c3c2b0a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>flt-glass-pane</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//flt-glass-pane</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>flt-glass-pane</value>
+      <webElementGuid>bd4c3a34-e69a-407a-84b8-203349c36368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/flt-glass-pane[1]</value>
+      <webElementGuid>c5cb7e31-1a57-41fc-b776-78d19d0e2480</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//flt-glass-pane</value>
+      <webElementGuid>97f5a753-38d9-4675-af02-0e17e4eb320f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
