@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Forgot your Password_bi bi-eye-slash f-2</name>
+   <tag></tag>
+   <elementGuidId>675b7cb7-6b5b-402d-aa61-27ffc21269eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-eye-slash.f-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='kt_login_signin_form']/div[3]/div[2]/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>97a02930-f7c5-41ba-a43c-de49fb280dd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-eye-slash f-2</value>
+      <webElementGuid>909173d0-d653-4f08-bdc1-748876f94498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_login_signin_form&quot;)/div[@class=&quot;fv-row mb-10&quot;]/div[@class=&quot;position-relative mb-3&quot;]/span[@class=&quot;btn btn-icon position-absolute translate-middle end-0 top-50 pt-9 ps-5&quot;]/i[@class=&quot;bi bi-eye-slash f-2&quot;]</value>
+      <webElementGuid>f62fd174-625e-4b2a-a4dd-91082592df2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='kt_login_signin_form']/div[3]/div[2]/span/i</value>
+      <webElementGuid>712c7af6-6176-4250-9ef5-848a5519bfa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>2e7a133a-df87-4def-a229-54bf4e4e860d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
